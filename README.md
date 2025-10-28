@@ -1,1 +1,1 @@
-Simulateur de terminal pour le cours de Communications Réseau.
+Simulateur de terminal pour le TP Communications Réseau.
